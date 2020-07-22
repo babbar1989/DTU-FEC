@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "682800923166",
+    "firebase_url": "https://dtufec.firebaseio.com",
+    "project_id": "dtufec",
+    "storage_bucket": "dtufec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682800923166:android:9387553a5a0527ab",
+        "android_client_info": {
+          "package_name": "com.abhishekbabbar1989.dtufec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682800923166-oq4t1vsfj4m9f918bpunp6q1j60pra9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishekbabbar1989.dtufec",
+            "certificate_hash": "6215b1bb119c9408681483728342b8340f2e3f5e"
+          }
+        },
+        {
+          "client_id": "682800923166-pp4r1m6oj4o03b6ts6n2d6lus946c0gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASptCbUMmIeBNNdbanvvQ7p2VYZ5ZJyyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682800923166-pp4r1m6oj4o03b6ts6n2d6lus946c0gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

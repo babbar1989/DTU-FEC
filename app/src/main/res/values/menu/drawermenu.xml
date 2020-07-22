@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nutrition" android:title="Nutrition" android:icon="@drawable/ic_restaurant_menu_black_24dp"/>
+    <item android:id="@+id/dietplan" android:title="diet plan" android:icon="@drawable/ic_restaurant_menu_black_24dp"/>
+    <item android:id="@+id/contactgym" android:title="contact gym" android:icon="@drawable/ic_call_black_24dp"/>
+    <item android:id="@+id/aboutdeveloper" android:title="about developer" android:icon="@drawable/ic_computer_black_24dp"/>
+
+</menu>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abhishekbabbar1989.dtufec">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.abhishekbabbar1989.dtufec.syllabusActivity"></activity>
+        <activity android:name="com.abhishekbabbar1989.dtufec.aboutDeveloper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.japanesePaper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.japaneseBooks" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.japaneseNotes" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.germanPaper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.germanBooks" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.germanNotes" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.frenchPaper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.frenchBooks" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.frenchNotes" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.languageActivity" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.engexpPaper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.engexpNotes" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.engineeringexpActivity" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.techcmnPaper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.techcmnBooks" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.techcmnNotes" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.technicalcmnActivity" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.financialPaper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.financialBooks" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.financialNotes" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.financialActivity" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.bsnPaper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.bsnBooks" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.bsnNotes" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.buisnesscmnActivity" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.cmnPaper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.cmnBooks" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.cmnNotes" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.logicalpaper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.logicalbooks" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.logicalnotes" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.evspaper" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.evsnotes" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.evsbooks" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.japaneseActivity" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.frenchActivity" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.germanActivity" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.communicationActivity" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.logicalActivity" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.Evs" />
+        <activity android:name="com.abhishekbabbar1989.dtufec.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

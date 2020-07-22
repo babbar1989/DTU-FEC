@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/syllabus" android:title="Syllabus"  android:icon="@drawable/ic_bookmark_black_24dp"/>
+    <item android:id="@+id/website" android:title="Visit Website"  android:icon="@drawable/ic_web_black_24dp"/>
+    <item android:id="@+id/contactme" android:title="Contact me"  android:icon="@drawable/ic_phone_black_24dp"/>
+    <item android:id="@+id/aboutdeveloper" android:title="About Developer" android:icon="@drawable/ic_laptop_black_24dp" />
+
+
+</menu>
